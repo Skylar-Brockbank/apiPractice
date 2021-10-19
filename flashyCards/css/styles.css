@@ -1,0 +1,17 @@
+.description {
+  display: none;
+}
+
+.screenLayout {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
+}
+
+.flashCard {
+  border: solid green;
+  justify-self: center;
+  width: 100%;
+  padding: 1em;
+  box-sizing: border-box;
+}
