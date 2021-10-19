@@ -12,6 +12,7 @@
   border: solid green;
   justify-self: center;
   width: 100%;
+  height:fit-content;
   padding: 1em;
   box-sizing: border-box;
 }
